@@ -6,4 +6,4 @@ This is a demo for Git &amp; Github class.
 
 Ashneet k tuteja
 
-# students
+# studentss
